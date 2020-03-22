@@ -4,7 +4,7 @@ install.packages("hyperSpec")
 #installing covr
 install.packages("covr")
 
-#installing lintr
+# installing lintr
 install.packages("lintr")
 
 #install hyperSpec.tidyverse 
