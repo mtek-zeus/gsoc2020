@@ -1,0 +1,12 @@
+#installing hyperSpec
+install.packages("hyperSpec")
+
+#installing covr
+install.packages("covr")
+
+#installing lintr
+install.packages("lintr")
+
+#install hyperSpec.tidyverse 
+devtools::install_github("cbeleites/hyperSpec.tidyverse")
+install.packages("C:/Users/23767/AppData/Local/Temp/Rtmp2nkk22/file26145cf33165/hyperSpec.tidyverse_0.1.0.tar.gz", repos = NULL, type = "source")
